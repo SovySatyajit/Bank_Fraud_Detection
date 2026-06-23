@@ -1,0 +1,21 @@
+# Datasets
+data/
+*.csv
+
+# Generated graph files
+*.gml
+*.gpickle
+
+# ML model files
+*.pkl
+*.pt
+*.pth
+*.h5
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env
